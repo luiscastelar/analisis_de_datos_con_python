@@ -1,0 +1,9 @@
+# Establecer la zona horaria directamente en el archivo cron
+TZ=Europe/Madrid
+SHELL=/bin/bash
+PATH=/usr/local/bin:/usr/bin:/bin
+
+# Sintaxis cron estándar: M H DOM MON DOW comando
+# Ejemplo: A las 07:26 ejecuta paso1.py y, si da 0, ejecuta paso2.py
+*/2 * * * * python -u /app/app.py  > /proc/1/fd/1 2>&1
+#30 14 * * *  python -u /app/datos.py && python -u /app/procesar.py > /proc/1/fd/1 2>&1
