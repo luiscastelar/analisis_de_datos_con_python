@@ -14,6 +14,8 @@
 ## Fuentes:
 - De consulta:
     - "Libro" [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/index.html)
+        - [NumPy Arrays](https://allendowney.github.io/ElementsOfDataScience/03_arrays.html#numpy-arrays)
+        - [Pandas DataFrames](https://allendowney.github.io/ElementsOfDataScience/07_dataframes.html)
     - [Extraer datos de PDF](https://github.com/traversaal-ai/pdf-parser-table-extraction-fast-api)
 
 - De datos:
