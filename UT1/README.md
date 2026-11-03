@@ -6,7 +6,7 @@
 
 ## 2. Introducción al ecosistema de datos en Python
 
-[Desarrollo](2_ecosistema_python.md)
+[Desarrollo](2_intro_ecosistema_python.ipynb)
 
 
 
