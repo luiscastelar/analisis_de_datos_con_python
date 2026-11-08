@@ -2,3 +2,10 @@
 *~
 UT3/
 pruebas.ipynb
+opencode.json
+*Solucionario*
+**/node_modules
+package.json
+package-lock.json
+*.log
+*.tmp
