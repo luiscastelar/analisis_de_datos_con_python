@@ -8,6 +8,26 @@
 
 [Desarrollo](2_intro_ecosistema_python.ipynb)
 
+## 3. NumPy
+
+[Desarrollo](3_NumPy.ipynb)
+
+## 4. Captura de datos desde CSV
+
+[Desarrollo](4_Captura_desde_csv.ipynb)
+
+## 5. Pandas
+
+[Desarrollo](5_Pandas.ipynb)
+
+## 6. Captura de datos desde JSON, Parquet y Excel
+
+[Desarrollo](6_Captura_desde_json_y_parquet.ipynb)
+
+## 7. Limpieza de datos
+
+[Desarrollo](7_Limpieza_de_datos.ipynb)
+
 
 
 
