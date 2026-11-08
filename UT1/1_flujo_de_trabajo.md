@@ -1,4 +1,4 @@
-## 1. El Flujo de Trabajo en el Análisis de Datos (Data Analysis Workflow)
+## UT1.1. El Flujo de Trabajo en el Análisis de Datos (Data Analysis Workflow)
 
 ### 1.1. Por qué necesitamos un flujo estructurado
 
@@ -42,10 +42,10 @@ Antes de escribir una sola línea de código en Python, es imprescindible defini
 
 Para el análisis exploratorio de datos, el estándar industrial es el entorno de cuadernos interactivos (**Jupyter Notebooks / JupyterLab**).
 
-#### ¿Por qué Jupyter para el análisis de datos?
+#### 1.5 ¿Por qué Jupyter para el análisis de datos?
 
 * **REPL extendido:** Permite ejecutar celdas de código de manera independiente sin recargar todo el dataset en memoria.
 * **Prototipado rápido:** Inspección inmediata del estado de los `DataFrames` de pandas mediante tablas formateadas en HTML.
 * **Integración narrativa:** Combina explicaciones en Markdown, ecuaciones LaTeX, código ejecutable y gráficos intercalados en un solo documento (`.ipynb`).
 
-[Continuar](2_intro_ecosistema_python.ipynb)
+[Introducción al Ecosistema](2_intro_ecosistema_python.ipynb)
