@@ -9,3 +9,4 @@ package.json
 package-lock.json
 *.log
 *.tmp
+litellm_config.yml
